@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+You've stumpled upon my little cozy place on Github.
+
+Welcome.
+
 <!--
 **magnusfoldager/magnusfoldager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
